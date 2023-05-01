@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="30px" src="![image](https://user-images.githubusercontent.com/113505287/235420593-28df7678-0cf0-4e76-9b03-0ef39bfec23d.png)
+[<img align="left" alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg
 " style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
