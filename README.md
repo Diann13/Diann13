@@ -18,7 +18,7 @@
 [<img align="left" alt="Dart" width="60px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="30px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Laravel" width="60px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 
 <br />
