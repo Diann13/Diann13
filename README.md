@@ -14,6 +14,7 @@
        #### 2. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Software Engineering (RPL) | Pacitan`2021-2024`
 
 <br />
+<br />
 ---
 ### Connect with me:
 
