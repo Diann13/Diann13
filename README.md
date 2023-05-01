@@ -14,13 +14,6 @@
        #### 2. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Software Engineering (RPL) | Pacitan`2021-2024`
 
 
-### Languages and Tools:
-
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Flutter" width="30px" src="https://tse1.mm.bing.net/th?id=OIP.0S4tyeZ4Uh4F-C2piHQbWAHaD3&pid=Api&P=0" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Dart" width="30px" src="https://www.matawebsite.com/images/blog/328_apa_itu_bahasa_pemrograman_dart.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/id/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="30px" src="https://img2.pngdownload.id/20180527/oio/kisspng-javascript-programming-language-ajax-5b0b285b692210.3071468515274578834306.jpg" style="padding-right:0px;" />][webdev]
 <br />
 <br />
 
