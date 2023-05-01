@@ -9,8 +9,8 @@
 ## Education:
 
 #### 1. [SMP 2 Pacitan](https://smpn2pacitan.sch.id/) | Pacitan`2018-2021`
-       #### 2. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Software Engineering (RPL) | Pacitan`2021-2024`
-#### 1. [SMP 2 Pacitan](https://smpn2pacitan.sch.id/) | Pacitan`2018-2021`
+       #### 1. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Pacitan`2021-2024`
+#### 2. 2. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Software Engineering (RPL) | Pacitan`2021-2024`
        #### 2. [SMK N 1 Pacitan](https://smkn1pacitan.sch.id/) | Software Engineering (RPL) | Pacitan`2021-2024`
 ---
 
