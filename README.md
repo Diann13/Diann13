@@ -19,7 +19,10 @@
 [<img align="left" alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="30px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Laravel" width="60px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="PHP" width="50px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Android Studio" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="IntelliJ IDEA " width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
+
 
 <br />
 <br />
