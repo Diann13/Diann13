@@ -22,7 +22,9 @@
 [<img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Android Studio" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="IntelliJ IDEA" width="60px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" style="padding-right:10px;"/[webdev]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" style="padding-right:10px;" />][webdev]
+
+
 
 
 
